@@ -61,7 +61,7 @@ Built for clean architecture, scalability, and real-world backend learning.
 
 ## 📂 Project Structure
 ```bash
-student-management-system/
+student-management/
 ├── controller/     # REST Controllers
 ├── service/        # Business Logic Layer
 ├── repository/     # Data Access Layer
@@ -79,7 +79,7 @@ student-management-system/
 ### 🔧 1. Clone the repo
 ```bash
 git clone https://github.com/nakhandev/student-management.git
-cd student-management-system
+cd student-management
 ```
 
 ### 🗄️ 2. Configure Database (`application.properties`)
@@ -113,8 +113,8 @@ mvn spring-boot:run
 ## 🧾 Example JSON Request
 ```json
 {
-  "name": "John Doe",
-  "email": "john.doe@example.com",
+  "name": "Md Nawab Ali Khan",
+  "email": "nakdev.nakhan@example.com",
   "age": 22,
   "course": "Computer Science"
 }
