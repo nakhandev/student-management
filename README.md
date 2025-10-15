@@ -304,9 +304,6 @@ logging.level.com.studentmanagement=DEBUG
 - 📊 Metrics and Monitoring
 - 🧪 Comprehensive Test Suite
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
@@ -347,3 +344,7 @@ Feel free to check the [issues page](../../issues).
 <p align="center">✨ Built with ❤️ using <b>Java + Spring Boot</b> ✨</p>
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
