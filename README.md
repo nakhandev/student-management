@@ -184,7 +184,7 @@ GET /api/students/age?min=20&max=25
 
 ## 🧪 Testing the API
 
-### Using cURL
+### Using CURL
 
 ```bash
 # Create a student
